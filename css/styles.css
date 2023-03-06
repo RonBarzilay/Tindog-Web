@@ -16,6 +16,13 @@ h1{
     line-height: 1.5;
 }
 
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+
 .btn-download{
     font-family: 'Tilt Neon', cursive;
     font-size: 1.4rem;
@@ -91,4 +98,35 @@ h1{
 #featrures, p{
     color: #8f8f8f;
     line-height: 1.5;
+}
+
+/* Testimonials Section */
+
+#testimonials{
+    text-align: center;
+    background-color: #EF8172;
+    color: wheat;
+}
+
+.testimonials-img{
+    border-radius: 100%;
+    width: 10%;
+    margin: 1rem;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+/* Press Section */
+
+#press{
+    background-color: #EF8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo{
+    width: 15%;
+    margin: 1rem 1rem 3rem;
 }
