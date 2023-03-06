@@ -59,3 +59,36 @@ h1{
     padding-top: 2rem;
     transform: rotate(20deg);
 }
+
+/* Features Section */
+
+#features{
+    margin: 0 7%;
+}
+
+#features i{
+    color: #EF8172;
+    font-size: 4rem;
+}
+
+#features i:hover{
+    color: #FF4C68;
+    font-size: 4rem;
+}
+
+
+#featrures, .col-lg-4{
+    text-align: center;
+    padding: 8% 4%;
+}
+
+#featrures, h3{
+    font-size: 1.8rem;
+    font-weight: bolder;
+    margin: 1.5rem 0;
+}
+
+#featrures, p{
+    color: #8f8f8f;
+    line-height: 1.5;
+}
